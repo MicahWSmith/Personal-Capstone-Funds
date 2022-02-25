@@ -1,0 +1,30 @@
+
+.funds-content{
+    .funds-list{
+        display: flex;
+        flex-direction: row;
+
+        margin: 50px;
+        mat-card{
+            margin-left: 20px;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+    .form-content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
